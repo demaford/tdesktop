@@ -16,7 +16,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 #include "lang/lang_keys.h"
 #include "window/window_session_controller.h"
 
-namespace Api {e801eb1ee86c9c34f575f51668067de85b41919c}
+namespace Api {
 
 AttachedStickers::AttachedStickers(not_null<ApiWrap*> api)
 : _api(&api->instance()) {
